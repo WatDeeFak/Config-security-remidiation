@@ -1826,4 +1826,18 @@ The project progressed from simple configuration monitoring to an automated secu
 
 This represents the transition from learning individual AWS security services to designing an integrated Cloud Security solution.
 
+## Delete ⬇️
+```
+1. Delete Config Auto Remediation
+2. Delete Config Rule
+3. Delete EventBridge Rule
+4. Delete SNS Subscription
+5. Delete SNS Topic
+6. Delete CloudWatch Log Group
+7. Delete IAM Roles
+8. Terminate EC2
+9. Check & delete orphaned EBS volume
+```
+
 ## Project Complete ✅
+
